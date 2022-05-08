@@ -1,11 +1,21 @@
-## Portfolio
+## Projects Portfolio
 
 ---
 
-### Category Name 1 
+### TotalEnergies Digital Factory
+_Since March 2021._
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/totalenergies-logo.png?raw=true"/>
+
+**Product Team**: OneCBM project - Monitoring
+[FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments
+_keywords: Anomaly Detection, Failure prediction, Azure, Databricks, Agile, Scrum_
+
+**Data Studio Team**: +9 Proof of Concept projects for all group entities. 
+It is called data exploration and lasts about 6 weeks. 
+Examples of topics addressed: Predictive Maintenance, Supply Chain, Dynamic Pricing,
+Root Cause Analysis, Knowledge Extraction, Anomaly Detection, Solar Power Station forecasting.
+_keywords: EDA, statistical and machine learning modeling, data visualization, workshops with SMEs_
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
