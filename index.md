@@ -2,10 +2,10 @@
 
 ---
 
-### TotalEnergies Digital Factory
-_Since March 2021._
+### TotalEnergies Digital Factory 
+<img src="images/totalenergies-logo.png?raw=true" width="100" height="100" />
 
-<img src="images/totalenergies-logo.png?raw=true"/>
+_Since March 2021._
 
 **Product Team**: OneCBM project - Monitoring
 [FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments
@@ -21,8 +21,9 @@ _keywords: EDA, statistical and machine learning modeling, data visualization, w
 ---
 
 ### Instructor MLOps - Training OCTO Technology / Accenture
+<img src="images/logo-white-OCTO.png?raw=true" width="100" height="100" />
+
 _2021._ \
-<img src="images/logo-white-OCTO.png?raw=true"/>
 [Industrialisation avancée d’un projet de Data Science](
 https://www.octo.academy/catalogue/formation/dsin2-industrialisation-avancee-dun-projet-de-data-science/
 ) \
@@ -32,7 +33,9 @@ Devops, Monitoring, Continuous Training, Model Drift_
 
 ---
 
-### ESSEC Business School - Accenture Analytics Chair 
+### ESSEC Business School - Accenture Analytics Chair
+<img src="images/TF1.png?raw=true" width="100" height="100" />
+
 _2022._ \
 **Data Coach** -  TF1 use case \
 Optimise video ad completion rate on [myTF1 platform](https://www.tf1.fr/)
@@ -47,12 +50,10 @@ Forecasting of wind power for several eolian farms - 2nd place -
 ---
 
 ### Decathlon
-_February 2021 - March 2021._ 
+<img src="images/Decathlon.png?raw=true" width="100" height="100" />
 
-<img src="images/Decathlon.png?raw=true"/>
-
-Supply Chain 
-
+_February 2021 - March 2021._ \
+**Supply Chain** \
 _keywords: Legacy Code Refactoring, Data Engineering,
 Data Architecture, Apache Spark, Code Optimization_  
 
