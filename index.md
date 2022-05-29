@@ -7,10 +7,10 @@
 
 _Since March 2021._
 
-**Product Team**: OneCBM project - Monitoring
+**Product Team**: OneCBM project - Monitoring 
 [FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments
 _keywords: Anomaly Detection, Failure prediction, MLOps, Azure Cloud, Databricks, Agile, Scrum
-_
+_ 
 
 **Data Studio Team**: +9 Proof of Concept projects for all group entities. \
 It is called data exploration and lasts about 6 weeks. \
@@ -35,6 +35,7 @@ Devops, Monitoring, Continuous Training, Model Drift_
 
 ### ESSEC Business School - Accenture Analytics Chair
 <img src="images/TF1.png?raw=true" width="100" height="100" />
+<img src="images/essec.png?raw=true" width="100" height="100" />
 
 _2022._ \
 **Data Coach** -  TF1 use case \
@@ -88,7 +89,7 @@ _2019 -- 2020._
 
 ---
 
-### Workshop on Artificial Intelligence - [Sophia Summit 2019](https://univ-cotedazur.fr/events-uca/sophia-summit/sophia-summit-2020)
+### Workshop Artificial Intelligence - [Sophia Summit 2019](https://univ-cotedazur.fr/events-uca/sophia-summit/sophia-summit-2020)
 _2019._
 
 Gave a talk about interpretability in Machine Learning
