@@ -9,37 +9,40 @@ _Since March 2021._
 
 **Product Team**: OneCBM project - Monitoring
 [FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments
-_keywords: Anomaly Detection, Failure prediction, Azure, Databricks, Agile, Scrum_
+_keywords: Anomaly Detection, Failure prediction, MLOps, Azure Cloud, Databricks, Agile, Scrum
+_
 
-**Data Studio Team**: +9 Proof of Concept projects for all group entities. 
-It is called data exploration and lasts about 6 weeks. 
+**Data Studio Team**: +9 Proof of Concept projects for all group entities. \
+It is called data exploration and lasts about 6 weeks. \
 Examples of topics addressed: Predictive Maintenance, Supply Chain, Dynamic Pricing,
 Root Cause Analysis, Knowledge Extraction, Anomaly Detection, Solar Power Station forecasting.
 _keywords: EDA, statistical and machine learning modeling, data visualization, workshops with SMEs_
 
 ---
 
-### Data challenge TotalEnergies - Air Liquide 
-_May 2021 - October 2021._ 
-
-Forecasting of wind power for several eolian farms - 2nd place - 
-[details](https://datascience.total.com/fr/challenge/19/details)
+### Instructor MLOps - Training OCTO Technology / Accenture
+_2021._ \
+<img src="images/logo-white-OCTO.png?raw=true"/>
+[Industrialisation avancée d’un projet de Data Science](
+https://www.octo.academy/catalogue/formation/dsin2-industrialisation-avancee-dun-projet-de-data-science/
+) \
+MLOps / ML Engineering advanced training \
+_keywords: CI/CD, Tests, Cloud, Infra as Code, Orchestration, Artifacts Versioning, Deployment, Serving, 
+Devops, Monitoring, Continuous Training, Model Drift_ 
 
 ---
 
-### Instructor Training OCTO Technology / Accenture
-_2021._
+### ESSEC Business School - Accenture Analytics Chair 
+_2022._ \
+**Data Coach** -  TF1 use case \
+Optimise video ad completion rate on [myTF1 platform](https://www.tf1.fr/)
 
-<img src="images/logo-white-OCTO.png?raw=true"/>
+---
 
-[Industrialisation avancée d’un projet de Data Science](
-https://www.octo.academy/catalogue/formation/dsin2-industrialisation-avancee-dun-projet-de-data-science/
-) 
-
-This training deals with how to put a machine learning model into production.
-
-_keywords: Tests, CI/CD, artifacts versioning, devops, Cloud, Infra as Code, 
-Orchestration, deployment, serving, monitoring_ 
+### Data challenge TotalEnergies - Air Liquide 
+_May 2021 - October 2021._ \
+Forecasting of wind power for several eolian farms - 2nd place - 
+[details](https://datascience.total.com/fr/challenge/19/details)
 
 ---
 
@@ -52,6 +55,12 @@ Supply Chain
 
 _keywords: Legacy Code Refactoring, Data Engineering,
 Data Architecture, Apache Spark, Code Optimization_  
+
+---
+
+### Internship Supervisor 
+_2022._ \
+Subject: Model Drift in Machine Learning
 
 ---
 
