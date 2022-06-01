@@ -5,6 +5,10 @@ avatar: /logo.png
 email: ngzhio@gmail.com
 skin: daylight
 
+domain: sgrah-oss.github.io
+url: https://sgrah-oss.github.io
+# baseurl: /REPOSITORY-NAME/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
