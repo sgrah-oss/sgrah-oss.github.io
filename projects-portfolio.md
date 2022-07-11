@@ -11,7 +11,7 @@ _Since March 2021._
 **Data Scientist in the squad team.** \
 The product has been under development at TotalEnergies' Digital Factory for a year. The product team 
 is composed of a tech lead, a product owner, 2 data engineers, 2 software engineers, a devops engineer,
-a product manager, a dynamic lead (scrum master / agile coach) and 3 data scientists. \ 
+a product manager, a dynamic lead (scrum master / agile coach) and 3 data scientists. \
 We use Databricks and Azure Cloud. Our language is Python. Spark is required only for preprocessing datasets
 using batch treatment scheduled every day. We implement the full lifecycle of machine learning models,
 including modeling, unit/integration tests, versioning of artifacts (models, data and code), training, deployment,
