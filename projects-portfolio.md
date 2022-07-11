@@ -7,10 +7,21 @@ permalink: /projects/
 ## TotalEnergies Digital Factory <img src="../images/totalenergies-logo.png?raw=true" width="100" height="100" />
 _Since March 2021._
 
-### Product Team
-OneCBM project - Monitoring
-[FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments \
-_keywords: Anomaly Detection, Failure prediction, MLOps, Azure Cloud, Databricks, Agile, Scrum_ 
+### OneCBM, a platform that helps engineers monitoring equipment on [FPSO](https://en.wikipedia.org/wiki/Floating_production_storage_and_offloading) equipments
+**Data Scientist in the squad team.** \
+The product has been under development at TotalEnergies' Digital Factory for a year.  \
+The product team is composed of a tech lead, a product owner, 2 data engineers, 2 software engineers, a devops engineer,
+a product manager, a dynamic lead (scrum master / agile coach) and 3 data scientists. \ 
+We use Databricks and Azure Cloud. Our language is Python. Spark is required only for preprocessing datasets
+using batch treatment scheduled every day. We implement the full lifecycle of machine learning models,
+including modeling, unit/integration tests, versioning of artifacts (models, data and code), training, deployment,
+evaluation, monitoring, orchestration. The whole process is automated via a CI/CD that launches and 
+executes Databricks pipeline tasks on several environments: test, pre-prod and production. 
+The environments are set up using the infra-as-code approach with Terraform. 
+Models, results, etc... are monitored with MLFlow.
+In the team, we decided to use trunk-based development to merge our features using pull requests. \
+Finally, we follow Agile values and apply the scrum methodology with all rituals
+(2 week sprint and 8 sprint cycle with a scoping "sprint" at the beginning).
 
 ### Data Studio Team
 +9 Proof of Concept projects for all group entities. \
@@ -57,16 +68,18 @@ _2019 -- 2020._
 
 ---
 
-## Cybels Analytics - Cybersecurity  <img src="../images/thales.png?raw=true" width="200" height="100" />
+## Cybels Analytics, an AI-based Platform for detecting cyberattacks  <img src="../images/thales.png?raw=true" width="200" height="100" />
 _2019._ 
-
-Attack detection in network traffic using Data Science approaches. \
-[Stream Graphs theory](https://www-complexnetworks.lip6.fr/~magnien/Publis/48_Fondements/article.pdf) applied to network traffic modeling in order to build features. \
-Integration with the Big Data Platform: [PunchPlatform](https://punchplatform.com/) \
-Resources:
-* [French press release](https://www.thalesgroup.com/fr/marches-specifiques/systemes-dinformation-critiques-et-cybersecurite/press-release/thales-lance)
-* [English press release](https://thales-group.prezly.com/thales-unveils-cybels-analytics-its-new-ai-based-platform-to-detect-the-most-complex-cyberattacks)
-_keywords: Anomaly Detection, Stream Graphs, xAI, Apache Spark_ 
+[press release](https://thales-group.prezly.com/thales-unveils-cybels-analytics-its-new-ai-based-platform-to-detect-the-most-complex-cyberattacks)
+**Head of AI and ML**. I also worked on the Data Engineering and Devops part. \
+*Data Engineering*: a large amount of data was being consumed by the platform (about 600 log messages per second).
+We were relying on the following stack: Spark streaming (scala and python API), Elasticsearch, Kibana and Logstash. \
+*Devops*: the platform was deployed on-premise with virtual machines set up in a distributed cluster of machines. 
+Ansible was used to automate the process. \
+*Machine Learning*: I built algorithms based on anomaly detection and graph theory to detect cyberattacks
+(such as Command and Control, DDos, etc…) and provided modules on the platform that could be reused by expert users
+to design their own pipelines and processing. Algorithms were implemented in scala and python for Spark. \
+The platform was presented at the 2020 edition of the International Cybersecurity Forum (FIC)
 
 ---
 
