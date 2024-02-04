@@ -4,6 +4,38 @@ title: Projects Portfolio
 permalink: /projects/
 ---
 
+## UK Power Networks
+_October 2023 - December 2023_ \
+Development of an algorithm leveraging Large Language Models (LLMs) for processing customer emails within Outlook. This included categorizing emails based on content, attachments, and previous interactions, conducting sentiment analysis to gauge urgency, summarizing email threads, and drafting preliminary responses.\
+Integrated Azure OpenAI APIs, Llama2, Databricks, Azure Logic Apps, and Blob Storage to deliver an end-to-end solution that dynamically updates inboxes for operator intervention.
+
+---
+
+## Port of Felixstowe
+_July 2023 - September 2023_ \
+Optimization of port operations including container movements, truck scheduling, and crane activities by analyzing data from operational software.\
+Developed a predictive model to determine the daily influx of hauliers to the holding area and performed in-depth analysis and cleansing of booking system logs for actionable insights.\
+Utilized Databricks for data processing and analytics.
+
+---
+
+## UK Power Networks
+_April 2023 - July 2023_ \
+Implemented a chatbot using LLMs with capabilities such as a Retrieval Augmented Generation (RAG) system for sourcing documentation from Confluence, translating inquiries into database queries for data retrieval from Databricks, and visualizing results.\
+The chatbot was deployed on a remote server adhering to software engineering best practices, with a robust system for logging inputs, outputs, and user feedback in a relational database.\
+Key technologies included Azure OpenAI APIs, Databricks, Langchain, and Vector Database.
+
+---
+
+## Northern Gas Networks
+_October 2022 - March 2023_
+Developed a recommendation system to predict syphon operations within the gas network, incorporating an algorithm for assessing water presence probabilities based on extensive variables.\
+Conducted optimization under constraints for syphon location selection and established a comprehensive data catalog detailing metadata, feature schemas, and data quality issues.\
+Modeled the NGN gas network in a Neo4J graph database.\
+Following the successful proof of concept, a one-month trial was initiated, during which daily syphon operation recommendations were generated and immediately implemented for real-time validation. This approach allowed for a direct comparison of predicted outcomes with actual results, revealing a significant enhancement in efficiency compared to the existing business-as-usual processes.
+
+---
+
 ## TotalEnergies Digital Factory <img src="../images/totalenergies-logo.png?raw=true" width="100" height="100" />
 _Since March 2021._
 
